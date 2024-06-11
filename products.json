@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "tahir",
+        "price": 29.99,
+        "rating": "4.7",
+        "company": "sumsung1"
+    },
+    {
+        "id": 1,
+        "name": "Product A",
+        "price": 29.99,
+        "rating": "4.7",
+        "company": "sumsung"
+    },
+    {
+        "id": 1,
+        "name": "Product A",
+        "price": 29.99,
+        "rating": "4.7",
+        "company": "apple"
+    },
+    {
+        "id": 1,
+        "name": "Product A",
+        "price": 29.99,
+        "rating": "4.7",
+        "company": "oppo"
+    },
+    {
+        "id": 1,
+        "name": "Product A",
+        "price": 29.99,
+        "rating": "4.7",
+        "company": "sumsung88"
+    }
+ 
+]
